@@ -1,8 +1,11 @@
 body {
   color: #40514E;
   margin: 0;
-  text-align: center;
   font-family: 'Merriweather', serif;
+}
+
+.homepage {
+  text-align: center;
 }
 
 h1 {
