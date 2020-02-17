@@ -106,13 +106,17 @@ hr {
   margin-left: 20px;
 }
 
-.skill-icon {
-  width:80px;
-  float: left;
-  margin-right: 20px;
+.work-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
 }
 
-.skill-description {
+.work-icon {
+  width:80px;
+}
+
+.work-description {
   clear: left;
 }
 
